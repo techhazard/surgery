@@ -22,12 +22,12 @@ path = "src/bin/dcap.rs"
 
 [[bin]]
 name = "head"
-description = "Print the first N lines of files/stdin (Simple implemetation of head from coreutils)"
+description = "Print the first N lines of files/stdin (Simple implementation of head from coreutils)"
 path = "src/bin/head.rs"
 
 [[bin]]
 name = "tail"
-description = "Print the last N lines of files/stdin (Simple implemetation of tail from coreutils)"
+description = "Print the last N lines of files/stdin (Simple implementation of tail from coreutils)"
 path = "src/bin/tail.rs"
 
 [dependencies]
